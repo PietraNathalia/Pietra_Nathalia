@@ -1,5 +1,5 @@
-### Boas vindas ao meu perfil :black_heart
-Meu nome é Pietra Ntahalia 
+### Boas vindas ao meu perfil 🖤
+Meu nome é Pietra Nathalia 
 
 - Estou estudando na Alura
 - Estou me desenvolvendo na linguagem JavaScript
